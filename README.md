@@ -1,88 +1,89 @@
-# Yo, Miel here 👋
+# yo, miel here (￣▽￣)ノ
 
-**Chaos and spontaneity in a caffeine addict's body.**
+**chaos and spontaneity in a caffeine addict's body.**
 
-Currently taking a gap year to pursue the forbidden dark arts.
-*(Was too late for admissions.)*
+currently taking a gap year to pursue the forbidden dark arts.
+*(was too late for admissions.)*
 
-I like building things from scratch—from random experiments and hackathon projects to products that solve actual problems. Most of the time, I don't really know what I'm going to build next. I just get an idea, start coding, and see where it takes me.
+i like building things from scratch—from random experiments and hackathon projects to products that solve actual problems. most of the time, i don't really know what i'm going to build next. i just get an idea, start coding, and see where it takes me.
 
-Most importantly, I'm probably the biggest larper in the whole world. I'll show up with a pitch, a stupid plan, and an unreasonable amount of confidence that we're about to get rich.
-
----
-
-## 🚀 Currently Building
-
-### 🗓️ ChatSked
-
-A booking and lightweight CRM platform built for small, appointment-based businesses in the Philippines.
-
-The idea is simple: instead of customers having to message a business, wait for a reply, and manually coordinate a schedule, ChatSked gives businesses a simple booking system they can share with their customers.
-
-**Tech:** `TypeScript` · `Next.js` · `React` · `PostgreSQL`
-
-→ [Explore ChatSked](https://github.com/x1lde/chatsked)
+most importantly, i'm probably the biggest larper in the whole world. i'll show up with a pitch, a stupid plan, and an unreasonable amount of confidence that we're about to get rich. `(ง'̀-'́)ง`
 
 ---
 
-## 🌐 Multi-Lingual Freak (In Programming)
+## currently building
 
-### Languages
+### chatsked
 
-`Python` `JavaScript` `TypeScript` `C` `C++` `C#` `Java`
+a booking and lightweight crm platform built for small, appointment-based businesses in the philippines.
 
-### Web
+the idea is simple: instead of customers having to message a business, wait for a reply, and manually coordinate a schedule, chatsked gives businesses a simple booking system they can share with their customers.
 
-`HTML` `CSS` `React` `Next.js`
+**tech:** `typescript` · `next.js` · `react` · `postgresql`
 
-### Database
-
-`SQL` `PostgreSQL`
-
-### Tools
-
-`Git` `GitHub` `VS Code`
+→ [explore chatsked](https://github.com/x1lde/chatsked)
 
 ---
 
-## 😵 Currently Losing Sleep Over
+## multi-lingual freak (in programming)
 
-* Full-stack web development
-* Software architecture
-* Building and shipping SaaS products
-* Machine learning
-* Hackathon development
-* Startup stuff
-* Whatever random idea enters my head at 2 AM
+### languages
 
----
+`python` `javascript` `typescript` `c` `c++` `c#` `java`
 
-## 🧪 Stuff I Built (Or Am Still Building)
+### web
 
-**ChatSked** — Booking & lightweight CRM for small businesses
+`html` `css` `react` `next.js`
 
-**DINIG** — Anonymous peer-to-peer listening and conversation app
+### database
 
-**MJM PoS System** — A point-of-sale system built for my dad's sari-sari store
+`sql` `postgresql`
 
-**FSH Lab Scheduler** — A laboratory scheduling system developed for teachers
+### tools
 
-**AIRPODS** — Airborne Pollutant Detection System using TensorFlow Lite
-
-**SPADE** — Soilborne Pollutant Analysis and Detection System using machine learning
+`git` `github` `vs code`
 
 ---
 
-## 🏀 When I'm Not Coding
+## currently losing sleep over (x_x)
 
-Probably playing basketball.
-
-Or talking about basketball.
-
-Or thinking about basketball.
-
-You get the idea.
+* full-stack web development
+* software architecture
+* building and shipping saas products
+* machine learning
+* hackathon development
+* startup stuff
+* whatever random idea enters my head at 2 am
 
 ---
 
-> *"I don't always have a plan. Sometimes I just start building."*
+## stuff i built (or am still building)
+
+**chatsked** — booking & lightweight crm for small businesses
+
+**dinig** — anonymous peer-to-peer listening and conversation app
+
+**mjm pos system** — a point-of-sale system built for my dad's sari-sari store
+
+**fsh lab scheduler** — a laboratory scheduling system developed for teachers
+
+**airpods** — airborne pollutant detection system using tensorflow lite
+
+**spade** — soilborne pollutant analysis and detection system using machine learning
+
+---
+
+## when i'm not coding (￣ω￣;)
+
+probably playing basketball.
+
+or talking about basketball.
+
+or thinking about basketball.
+
+you get the idea.
+
+---
+
+> *"i don't always have a plan. sometimes i just start building."*
+> `(｡•̀ᴗ-)✧`

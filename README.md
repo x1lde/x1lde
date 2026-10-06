@@ -19,7 +19,7 @@ a booking and lightweight crm platform built for small, appointment-based busine
 
 the idea is simple: instead of customers having to message a business, wait for a reply, and manually coordinate a schedule, chatsked gives businesses a simple booking system they can share with their customers.
 
-**tech:** `typescript` · `next.js` · `react` · `postgresql`
+**tech:** `python` `typescript` · `next.js` · `react` · `postgresql`
 
 → [explore chatsked](https://github.com/x1lde/chatsked)
 
